@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 I'm a Marketing Analyst with over 2 years of experience in marketing performance analysis and optimization, currently expanding into supply chain analytics.
+- 😄 I'm a Marketing Analyst with over 2 years of experience in marketing performance analysis and optimization
 
 - 💬 I've always been curious about how things work - whether it's analyzing why a campaign succeeded or identifying where a process can be improved. This curiosity drives me to ask insightful questions and uncover meaningful patterns.
 
