@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😄 I'm a Marketing Analyst with over 2 years of experience in marketing performance analysis and optimization, currently expanding into supply chain analytics.
+
+- 💬 I've always been curious about how things work - whether it's analyzing why a campaign succeeded or identifying where a process can be improved. This curiosity drives me to ask insightful questions and uncover meaningful patterns.
+
+- 🤔 While I pride myself on attention to detail, I thrive in collaborative environments. My proudest achievements have come from partnering with others to develop measurement tools and solve complex challenges, creating solutions that are both innovative and practical.
+
+- ⚡ What drives me most is using data to create meaningful impact. I'm passionate about applying my skills to help businesses perform better while supporting people and communities. Rather than pursuing prestige or perfection, I focus on progress - particularly initiatives that help those who need it most.
+
+- 🌱 I'm eager to continue growing, learning, and contributing to teams that value thoughtful, impactful work.
