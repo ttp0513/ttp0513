@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi, I'm Trong</h1>
 <h2 align="left">💻 Aspiring Web Developer | Data-Driven Problem Solver</h2>
-<h3 align="left">🧠 "I code, therefore I am."</h3>
+<h4 align="left">🧠 "I code, therefore I am."</h4>
 
 ## 💡 About Me
 
