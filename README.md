@@ -2,14 +2,17 @@
 <h2 align="left"> An aspiring Web Developer </h2>
 <h3 align="left"> I code, therefore, I am </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ttp0513&label=Profile%20views&color=0e75b6&style=flat" alt="ttp0513" /> </p>
+<h2> About me </h2>
+- 😄 I'm a Marketing Analyst with over 2 years of experience in marketing performance analysis and optimization 
+- 💬 I've always been curious about how things work - whether it's analyzing why a campaign succeeded or identifying where a process can be improved. This curiosity drives me to ask insightful questions and uncover meaningful patterns. 
+- 🤔 While I pride myself on attention to detail, I thrive in collaborative environments. My proudest achievements have come from partnering with others to develop measurement tools and solve complex challenges, creating solutions that are both innovative and practical. 
+- ⚡ What drives me most is using data to create meaningful impact. I'm passionate about applying my skills to help businesses perform better while supporting people and communities. Rather than pursuing prestige or perfection, I focus on progress - particularly initiatives that help those who need it most.
 
+<h2> What I am doing now? </h2>
 - 🌱I've been dedicating time to **deeping my skills in front-end development by building small projects using HTML, CSS, and JavaScript**
-
-- 📫 How to reach me **johnphanthe@gmail.com**
-
 - ⚡ Just a quick note: **Learning in public is hard, but rewarding. Cheers to everyone grinding in silence and showing up for themselves!**
 
+- 📫 How to reach me **johnphanthe@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/trongthephan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trongthephan" height="30" width="40" /></a>
