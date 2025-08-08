@@ -3,7 +3,7 @@
 
 ### 💬 Favorite Quote
 > *"I code, therefore I am."*
-A reminder that every line of code is a step toward understanding, building, and becoming.
+<p> A reminder that every line of code is a step toward understanding, building, and becoming. </p>
 
 ## 💡 About Me
 
