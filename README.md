@@ -2,7 +2,7 @@
 <h2 align="left">💻 Aspiring Web Developer | Data-Driven Problem Solver</h2>
 
 ### 💬 Favorite Quote
-<q> I code, therefore I am. </q> <br>
+> *"I code, therefore I am."*
 A reminder that every line of code is a step toward understanding, building, and becoming.
 
 ## 💡 About Me
