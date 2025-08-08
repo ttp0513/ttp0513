@@ -1,8 +1,17 @@
-<h1 align="left"> Hi 👋, I'm Trong </h1>
-<h2 align="left"> An aspiring Web Developer </h2>
-<h3 align="left"> I code, therefore, I am </h3>
+<h1 align="left">👋 Hi, I'm Trong</h1>
+<h2 align="left">💻 Aspiring Web Developer | Data-Driven Problem Solver</h2>
+<h3 align="left">🧠 "I code, therefore I am."</h3>
 
 ### 💡 About Me
+
+### 🔄 From Data to Development
+Before diving into web development, I spent 2+ years as a Marketing Analyst, where I:
+- Analyzed campaign performance across digital channels
+- Built measurement tools to optimize marketing spend
+- Collaborated cross-functionally to solve complex business challenges
+Now, I’m channeling that same curiosity and problem-solving mindset into building web applications.
+
+### 🧠 My Mindset
 - 💬 I’ve always been curious about how things work—whether it's analyzing why a campaign succeeded or debugging a layout issue in a web app.
 - 🤝 I thrive in collaborative environments. My proudest achievements come from partnering with others to build tools and solve complex challenges.
 - ⚡ I’m driven by impact. Whether through data or code, I aim to create solutions that help businesses perform better and support communities.
@@ -10,13 +19,12 @@
 
 ---
 ### 🌱 Currently Learning
-I'm diving deep into:
-- **HTML, CSS, JavaScript** for front-end development
-- **React** and **Tailwind CSS** to build responsive, modern interfaces
-- **Node.js** and **Express** for back-end development
-- **Version control with Git & GitHub**
+I'm actively expanding my skills through hands-on projects and tutorials. Right now, I'm focused on:
+- **HTML, CSS, JavaScript** for front-end development  
+- **React** and **Tailwind CSS** to build responsive, modern interfaces  
+- **Node.js** and **Express** for back-end development  
+- **Version control with Git & GitHub**  
 - Building real-world projects to solidify my skills
-
 ---
 
 ### 🚀 My Web Dev Journey
