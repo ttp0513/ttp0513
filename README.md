@@ -2,21 +2,30 @@
 <h2 align="left"> An aspiring Web Developer </h2>
 <h3 align="left"> I code, therefore, I am </h3>
 
-<h2> About me </h2>
-<ul>
-<li>😄 I'm a Marketing Analyst with over 2 years of experience in marketing performance analysis and optimization </li> 
-<li> 💬 I've always been curious about how things work - whether it's analyzing why a campaign succeeded or identifying where a process can be improved. This curiosity drives me to ask insightful questions and uncover meaningful patterns. </li> 
-<li>🤔 While I pride myself on attention to detail, I thrive in collaborative environments. My proudest achievements have come from partnering with others to develop measurement tools and solve complex challenges, creating solutions that are both innovative and practical. </li> 
-<li>⚡ What drives me most is using data to create meaningful impact. I'm passionate about applying my skills to help businesses perform better while supporting people and communities. Rather than pursuing prestige or perfection, I focus on progress - particularly initiatives that help those who need it most. </li> 
-</ul>
+### 💡 About Me
+- 💬 I’ve always been curious about how things work—whether it's analyzing why a campaign succeeded or debugging a layout issue in a web app.
+- 🤝 I thrive in collaborative environments. My proudest achievements come from partnering with others to build tools and solve complex challenges.
+- ⚡ I’m driven by impact. Whether through data or code, I aim to create solutions that help businesses perform better and support communities.
+- 📈 I believe in progress over perfection. Every commit, every bug fix, every late-night tutorial is a step forward.
 
-<h2> What I am doing now? </h2>
-<ul>
-<li> 🌱I've been dedicating time to **deeping my skills in front-end development by building small projects using HTML, CSS, and JavaScript** </li> 
-<li> ⚡ Just a quick note: **Learning in public is hard, but rewarding. Cheers to everyone grinding in silence and showing up for themselves!** </li> 
-</ul>
+---
+### 🌱 Currently Learning
+I'm diving deep into:
+- **HTML, CSS, JavaScript** for front-end development
+- **React** and **Tailwind CSS** to build responsive, modern interfaces
+- **Node.js** and **Express** for back-end development
+- **Version control with Git & GitHub**
+- Building real-world projects to solidify my skills
 
-- 📫 How to reach me **johnphanthe@gmail.com**
+---
+
+### 🚀 My Web Dev Journey
+I’m self-taught and committed to mastering web development through hands-on learning, building projects, and contributing to open-source. My goal is to blend my analytical mindset with technical skills to create intuitive, data-driven web experiences.
+
+---
+
+### 📫 Let’s Connect
+Feel free to reach out if you’re working on something exciting or just want to chat about tech, data, or design!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/trongthephan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trongthephan" height="30" width="40" /></a>
