@@ -11,8 +11,10 @@
 </ul>
 
 <h2> What I am doing now? </h2>
-- 🌱I've been dedicating time to **deeping my skills in front-end development by building small projects using HTML, CSS, and JavaScript**
-- ⚡ Just a quick note: **Learning in public is hard, but rewarding. Cheers to everyone grinding in silence and showing up for themselves!**
+<ul>
+<li> 🌱I've been dedicating time to **deeping my skills in front-end development by building small projects using HTML, CSS, and JavaScript** </li> 
+<li> ⚡ Just a quick note: **Learning in public is hard, but rewarding. Cheers to everyone grinding in silence and showing up for themselves!** </li> 
+</ul>
 
 - 📫 How to reach me **johnphanthe@gmail.com**
 <h3 align="left">Connect with me:</h3>
