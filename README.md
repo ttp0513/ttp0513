@@ -2,7 +2,7 @@
 <h2 align="left">💻 Aspiring Web Developer | Data-Driven Problem Solver</h2>
 <h3 align="left">🧠 "I code, therefore I am."</h3>
 
-### 💡 About Me
+## 💡 About Me
 
 ### 🔄 From Data to Development
 Before diving into web development, I spent 2+ years as a Marketing Analyst, where I:
@@ -18,7 +18,7 @@ Now, I’m channeling that same curiosity and problem-solving mindset into build
 - 📈 I believe in progress over perfection. Every commit, every bug fix, every late-night tutorial is a step forward.
 
 ---
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 I'm actively expanding my skills through hands-on projects and tutorials. Right now, I'm focused on:
 - **HTML, CSS, JavaScript** for front-end development  
 - **React** and **Tailwind CSS** to build responsive, modern interfaces  
@@ -27,12 +27,12 @@ I'm actively expanding my skills through hands-on projects and tutorials. Right 
 - Building real-world projects to solidify my skills
 ---
 
-### 🚀 My Web Dev Journey
+## 🚀 My Web Dev Journey
 I’m self-taught and committed to mastering web development through hands-on learning, building projects, and contributing to open-source. My goal is to blend my analytical mindset with technical skills to create intuitive, data-driven web experiences.
 
 ---
 
-### 📫 Let’s Connect
+## 📫 Let’s Connect
 Feel free to reach out if you’re working on something exciting or just want to chat about tech, data, or design!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
