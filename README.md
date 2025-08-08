@@ -3,10 +3,12 @@
 <h3 align="left"> I code, therefore, I am </h3>
 
 <h2> About me </h2>
-- 😄 I'm a Marketing Analyst with over 2 years of experience in marketing performance analysis and optimization 
-- 💬 I've always been curious about how things work - whether it's analyzing why a campaign succeeded or identifying where a process can be improved. This curiosity drives me to ask insightful questions and uncover meaningful patterns. 
-- 🤔 While I pride myself on attention to detail, I thrive in collaborative environments. My proudest achievements have come from partnering with others to develop measurement tools and solve complex challenges, creating solutions that are both innovative and practical. 
-- ⚡ What drives me most is using data to create meaningful impact. I'm passionate about applying my skills to help businesses perform better while supporting people and communities. Rather than pursuing prestige or perfection, I focus on progress - particularly initiatives that help those who need it most.
+<ul>
+<li>😄 I'm a Marketing Analyst with over 2 years of experience in marketing performance analysis and optimization </li> 
+<li> 💬 I've always been curious about how things work - whether it's analyzing why a campaign succeeded or identifying where a process can be improved. This curiosity drives me to ask insightful questions and uncover meaningful patterns. </li> 
+<li>🤔 While I pride myself on attention to detail, I thrive in collaborative environments. My proudest achievements have come from partnering with others to develop measurement tools and solve complex challenges, creating solutions that are both innovative and practical. </li> 
+<li>⚡ What drives me most is using data to create meaningful impact. I'm passionate about applying my skills to help businesses perform better while supporting people and communities. Rather than pursuing prestige or perfection, I focus on progress - particularly initiatives that help those who need it most. </li> 
+</ul>
 
 <h2> What I am doing now? </h2>
 - 🌱I've been dedicating time to **deeping my skills in front-end development by building small projects using HTML, CSS, and JavaScript**
