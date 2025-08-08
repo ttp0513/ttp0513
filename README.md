@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Trong, a future Full Stack Developer</h1>
-<h3 align="center">"Driven by curiosity, building the web one line at a time."</h3>
+<h1 align="left">Hi 👋, I'm Trong </h1>
+<h2 align="left"> An aspiring Web Developer >/h2>
+<h3 align="left"> I code, therefore, I am </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ttp0513&label=Profile%20views&color=0e75b6&style=flat" alt="ttp0513" /> </p>
 
