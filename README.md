@@ -1,6 +1,9 @@
 <h1 align="left">👋 Hi, I'm Trong</h1>
 <h2 align="left">💻 Aspiring Web Developer | Data-Driven Problem Solver</h2>
-<h4 align="left">🧠 "I code, therefore I am."</h4>
+
+### 💬 Favorite Quote
+> *"I code, therefore I am."*  
+A reminder that every line of code is a step toward understanding, building, and becoming.
 
 ## 💡 About Me
 
