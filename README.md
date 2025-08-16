@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hi, I'm Trong</h1>
-<h2 align="left">💻 Aspiring Web Developer | Data-Driven Problem Solver</h2>
+<h2 align="left"> Data-Driven Problem Solver | 💻 Aspiring Web Developer </h2>
 
 ### 💬 Favorite Quote
 > *"I code, therefore I am."*
@@ -15,23 +15,25 @@ Before diving into web development, I spent 2+ years as a Marketing Analyst, whe
 Now, I’m channeling that same curiosity and problem-solving mindset into building web applications.
 
 ### 🧠 My Mindset
-- 💬 I’ve always been curious about how things work—whether it's analyzing why a campaign succeeded or debugging a layout issue in a web app.
+- 💬 I’ve always been curious about how things work, whether it's analyzing why a campaign succeeded or debugging a layout issue in a web app.
 - 🤝 I thrive in collaborative environments. My proudest achievements come from partnering with others to build tools and solve complex challenges.
 - ⚡ I’m driven by impact. Whether through data or code, I aim to create solutions that help businesses perform better and support communities.
 - 📈 I believe in progress over perfection. Every commit, every bug fix, every late-night tutorial is a step forward.
 
 ---
 ## 🌱 Currently Learning
-I'm actively expanding my skills through hands-on projects and tutorials. Right now, I'm focused on:
+I'm actively expanding my skill set through hands-on projects and tutorials, pivoting into web development while strengthening my data analysis capabilities. Right now, I'm focused on:
 - **HTML, CSS, JavaScript** for front-end development  
 - **React** and **Tailwind CSS** to build responsive, modern interfaces  
-- **Node.js** and **Express** for back-end development  
-- **Version control with Git & GitHub**  
+- **Node.js**, **Python**, **SQL**, and **Express** for scalable back-end systems
+- **Version control with Git & GitHub**  for collaborative development
+- Data analysis with **Python (pandas, NumPy)** and **SQL** to extract insights and support smarter decision-making
+- **Power BI** for building interactive dashboards and visualizing business-critical metrics
 - Building real-world projects to solidify my skills
 ---
 
 ## 🚀 My Web Dev Journey
-I’m self-taught and committed to mastering web development through hands-on learning, building projects, and contributing to open-source. My goal is to blend my analytical mindset with technical skills to create intuitive, data-driven web experiences.
+I’m self-taught and committed to mastering web development and data analytics through hands-on learning, building projects, and contributing to open-source. My goal is to blend my analytical mindset with technical skills to create intuitive, data-driven web experiences.
 
 ---
 
