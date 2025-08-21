@@ -12,6 +12,7 @@ Before diving into web development, I spent 2+ years as a Marketing Analyst, whe
 - Analyzed campaign performance across digital channels
 - Built measurement tools to optimize marketing spend
 - Collaborated cross-functionally to solve complex business challenges
+  
 Now, I’m channeling that same curiosity and problem-solving mindset into building web applications.
 
 ### 🧠 My Mindset
