@@ -1,51 +1,116 @@
-<h1 align="left">👋 Hi, I'm Trong</h1>
-<h2 align="left"> Data-Driven Problem Solver | 💻 Aspiring Web Developer </h2>
+# Python and Pandas for Data Engineering
 
-### 💬 Favorite Quote
-> *"I code, therefore I am."*
-<p> A reminder that every line of code is a step toward understanding, building, and becoming. </p>
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow.svg)
 
-## 💡 About Me
+## 📚 About This Repository
 
-### 🔄 From Data to Development
-Before diving into web development, I spent 2+ years as a Marketing Analyst, where I:
-- Analyzed campaign performance across digital channels
-- Built measurement tools to optimize marketing spend
-- Collaborated cross-functionally to solve complex business challenges
-  
-Now, I’m channeling that same curiosity and problem-solving mindset into building web applications.
+This repository documents my learning journey through the **Python and Pandas for Data Engineering** course on Coursera. It serves as a comprehensive portfolio showcasing my progression in data engineering concepts, practical implementations, and problem-solving capabilities.
 
-### 🧠 My Mindset
-- 💬 I’ve always been curious about how things work, whether it's analyzing why a campaign succeeded or debugging a layout issue in a web app.
-- 🤝 I thrive in collaborative environments. My proudest achievements come from partnering with others to build tools and solve complex challenges.
-- ⚡ I’m driven by impact. Whether through data or code, I aim to create solutions that help businesses perform better and support communities.
-- 📈 I believe in progress over perfection. Every commit, every bug fix, every late-night tutorial is a step forward.
+## 🎯 Learning Objectives
+
+- Master Python fundamentals for data engineering
+- Develop proficiency in Pandas for data manipulation and analysis
+- Build practical data pipelines and ETL processes
+- Apply best practices in data cleaning and transformation
+- Create production-ready data engineering solutions
+
+## 📂 Repository Structure
+
+```
+python-pandas-data-engineering/
+│
+├── Course_Modules/          # Weekly course content and exercises
+│   ├── Week_01/
+│   ├── Week_02/
+│   └── ...
+│
+├── Practice_Assignments/    # Self-directed practice exercises
+│   ├── completed/
+│   └── in_progress/
+│
+├── Projects/                # Capstone and portfolio projects
+│   └── README.md
+│
+├── Resources/              # Cheat sheets, references, and notes
+│   ├── pandas_cheatsheet.md
+│   └── python_snippets.md
+│
+└── PRACTICE_REQUESTS.md    # Tracking practice assignment requests
+```
+
+## 📊 Progress Tracker
+
+| Module | Topic | Status | Completion Date |
+|--------|-------|--------|-----------------|
+| Week 1 | Python Fundamentals | 🔄 In Progress | - |
+| Week 2 | Pandas Basics | ⏳ Not Started | - |
+| Week 3 | Data Cleaning | ⏳ Not Started | - |
+| Week 4 | Data Transformation | ⏳ Not Started | - |
+| Week 5 | ETL Pipelines | ⏳ Not Started | - |
+| Week 6 | Final Project | ⏳ Not Started | - |
+
+**Legend:** ✅ Completed | 🔄 In Progress | ⏳ Not Started
+
+## 🔧 Skills Demonstrated
+
+### Technical Skills
+- **Python Programming**: Functions, classes, error handling, file I/O
+- **Pandas Operations**: DataFrame manipulation, grouping, merging, pivoting
+- **Data Cleaning**: Handling missing values, duplicates, outliers
+- **Data Transformation**: Reshaping, aggregation, feature engineering
+- **ETL Development**: Extract, transform, load pipeline design
+
+### Professional Skills
+- Version control with Git/GitHub
+- Technical documentation
+- Code organization and best practices
+- Problem-solving and analytical thinking
+
+## 🚀 Practice Assignments
+
+I regularly create custom practice assignments to reinforce learning and explore advanced concepts. See [PRACTICE_REQUESTS.md](PRACTICE_REQUESTS.md) for my assignment queue and completed exercises.
+
+**Recent Practice Projects:**
+- Coming soon...
+
+## 🛠️ Technologies & Tools
+
+- **Language**: Python 3.8+
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
+- **Environment**: Jupyter Notebook
+- **Version Control**: Git & GitHub
+
+## 📖 How to Use This Repository
+
+1. **Browse Course Modules**: Explore weekly folders for notes and exercises
+2. **Review Practice Assignments**: Check completed assignments for practical examples
+3. **Examine Projects**: View comprehensive implementations in the Projects folder
+4. **Reference Resources**: Quick access to cheat sheets and code snippets
+
+## 💡 Key Learnings & Insights
+
+_This section will be updated throughout the course with important takeaways, best practices discovered, and "aha!" moments._
+
+### Week 1: Python Fundamentals
+- Coming soon...
+
+### Week 2: Pandas Basics
+- Coming soon...
+
+## 🎓 Course Information
+
+- **Platform**: Coursera
+- **Course**: Python and Pandas for Data Engineering
+- **Start Date**: [Add your start date]
+- **Expected Completion**: [Add expected date]
+
+## 📬 Contact & Connect
+
+Feel free to explore this repository to see my learning progression and practical applications of data engineering concepts!
 
 ---
-## 🌱 Currently Learning
-I'm actively expanding my skill set through hands-on projects and tutorials, pivoting into web development while strengthening my data analysis capabilities. Right now, I'm focused on:
-- **HTML, CSS, JavaScript** for front-end development  
-- **React** and **Tailwind CSS** to build responsive, modern interfaces  
-- **Node.js**, **Python**, **SQL**, and **Express** for scalable back-end systems
-- **Version control with Git & GitHub**  for collaborative development
-- Data analysis with **Python (pandas, NumPy)** and **SQL** to extract insights and support smarter decision-making
-- **Power BI** for building interactive dashboards and visualizing business-critical metrics
-- Building real-world projects to solidify my skills
----
 
-## 🚀 My Web Dev Journey
-I’m self-taught and committed to mastering web development and data analytics through hands-on learning, building projects, and contributing to open-source. My goal is to blend my analytical mindset with technical skills to create intuitive, data-driven web experiences.
-
----
-
-## 📫 Let’s Connect
-Feel free to reach out if you’re working on something exciting or just want to chat about tech, data, or design!
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/trongthephan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trongthephan" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttp0513&show_icons=true&locale=en&layout=compact" alt="ttp0513" /></p>
+**Note**: This repository is actively maintained and updated as I progress through the course. Star ⭐ this repo to follow my learning journey!
