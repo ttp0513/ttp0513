@@ -1,116 +1,70 @@
-# Python and Pandas for Data Engineering
+# Hi, I'm Trong Phan
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow.svg)
+**M.S. Data Science and Analytics Candidate | Experimentation Analytics | Applied AI Evaluation**
 
-## 📚 About This Repository
+I am an analytics professional and graduate student interested in using experimentation, statistical modeling, and responsible AI evaluation to solve practical research and business problems.
 
-This repository documents my learning journey through the **Python and Pandas for Data Engineering** course on Coursera. It serves as a comprehensive portfolio showcasing my progression in data engineering concepts, practical implementations, and problem-solving capabilities.
+Before graduate school, I spent nearly three years as an Advanced Analytics Analyst supporting causal-inference and geo-lift measurement across multiple client accounts. My work included preparing and validating data, analyzing DMA-level sales variability, running established measurement workflows, and troubleshooting an R-based geo-testing tool with data science and measurement teams.
 
-## 🎯 Learning Objectives
+I am currently a student researcher in Kennesaw State University's Data Quality and Survey Methodology Lab, where I study the quality of noisy, open-ended survey responses and design human-supervised workflows for evaluating language-model classifications.
 
-- Master Python fundamentals for data engineering
-- Develop proficiency in Pandas for data manipulation and analysis
-- Build practical data pipelines and ETL processes
-- Apply best practices in data cleaning and transformation
-- Create production-ready data engineering solutions
+[View my résumé](./assets/Trong_Phan_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/trongthephan) | [Email](mailto:johnphanthe@gmail.com)
 
-## 📂 Repository Structure
+## Focus areas
 
-```
-python-pandas-data-engineering/
-│
-├── Course_Modules/          # Weekly course content and exercises
-│   ├── Week_01/
-│   ├── Week_02/
-│   └── ...
-│
-├── Practice_Assignments/    # Self-directed practice exercises
-│   ├── completed/
-│   └── in_progress/
-│
-├── Projects/                # Capstone and portfolio projects
-│   └── README.md
-│
-├── Resources/              # Cheat sheets, references, and notes
-│   ├── pandas_cheatsheet.md
-│   └── python_snippets.md
-│
-└── PRACTICE_REQUESTS.md    # Tracking practice assignment requests
-```
+- Experimentation, causal measurement, and geo-testing
+- Statistical modeling and sensitivity analysis
+- Survey data quality and reproducible research
+- Human-in-the-loop AI evaluation
+- Model comparison, reliability, latency, token usage, and cost
 
-## 📊 Progress Tracker
+## Selected work
 
-| Module | Topic | Status | Completion Date |
-|--------|-------|--------|-----------------|
-| Week 1 | Python Fundamentals | 🔄 In Progress | - |
-| Week 2 | Pandas Basics | ⏳ Not Started | - |
-| Week 3 | Data Cleaning | ⏳ Not Started | - |
-| Week 4 | Data Transformation | ⏳ Not Started | - |
-| Week 5 | ETL Pipelines | ⏳ Not Started | - |
-| Week 6 | Final Project | ⏳ Not Started | - |
+### Human-supervised survey response evaluation
 
-**Legend:** ✅ Completed | 🔄 In Progress | ⏳ Not Started
+Designed and tested a Python and Streamlit research application for classifying noisy, open-ended survey responses under researcher-defined grading rules. The workflow preserves original responses, human labels, prompts, model outputs, and audit evidence. A separate benchmark allows researchers to select OpenAI GPT and Anthropic Claude models and compare their performance on the same human-labeled data.
 
-## 🔧 Skills Demonstrated
+**Methods and tools:** Python, Streamlit, OpenAI API, Anthropic API, structured outputs, human review, classification metrics, reproducible benchmarking
 
-### Technical Skills
-- **Python Programming**: Functions, classes, error handling, file I/O
-- **Pandas Operations**: DataFrame manipulation, grouping, merging, pivoting
-- **Data Cleaning**: Handling missing values, duplicates, outliers
-- **Data Transformation**: Reshaping, aggregation, feature engineering
-- **ETL Development**: Extract, transform, load pipeline design
+### [VYBE music recommender](https://github.com/ttp0513/ai110-module5show-applied-ai-system-project)
 
-### Professional Skills
-- Version control with Git/GitHub
-- Technical documentation
-- Code organization and best practices
-- Problem-solving and analytical thinking
+A transparent, AI-assisted music recommendation application completed through CodePath's Foundations of AI Engineering program. VYBE uses Gemini to translate natural-language descriptions into reviewable music preferences, local TF-IDF retrieval to find catalog candidates, and deterministic hybrid scoring to rank and explain recommendations.
 
-## 🚀 Practice Assignments
+The project includes a FastAPI backend, structured-output validation, deterministic fallback behavior, private-song storage, temporary audio analysis, and 76 automated tests covering unit, integration, reliability, privacy, security, and UI behavior.
 
-I regularly create custom practice assignments to reinforce learning and explore advanced concepts. See [PRACTICE_REQUESTS.md](PRACTICE_REQUESTS.md) for my assignment queue and completed exercises.
+**Methods and tools:** Python, FastAPI, Gemini API, TF-IDF, scikit-learn, Pydantic, SQLite, pytest
 
-**Recent Practice Projects:**
-- Coming soon...
+### Student performance analytics
 
-## 🛠️ Technologies & Tools
+Compared linear regression, decision tree, and random forest models using information available at successive grading periods to predict final grades and identify the earliest reliable intervention point. The best-performing model flagged 96% of students who ultimately finished at risk.
 
-- **Language**: Python 3.8+
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
-- **Environment**: Jupyter Notebook
-- **Version Control**: Git & GitHub
+**Methods and tools:** Python, predictive modeling, model comparison, classification evaluation
 
-## 📖 How to Use This Repository
+### Environmental worldview and in-game behavior
 
-1. **Browse Course Modules**: Explore weekly folders for notes and exercises
-2. **Review Practice Assignments**: Check completed assignments for practical examples
-3. **Examine Projects**: View comprehensive implementations in the Projects folder
-4. **Reference Resources**: Quick access to cheat sheets and code snippets
+Analyzed survey responses from 638 Animal Crossing players using Welch's t-tests, linear regression, bootstrap resampling, and Monte Carlo sensitivity analysis. Results indicated that environmental attitudes were associated with conservation behavior, while gameplay frequency better explained resource exploitation.
 
-## 💡 Key Learnings & Insights
+**Methods and tools:** R, survey analysis, linear regression, bootstrap resampling, sensitivity analysis
 
-_This section will be updated throughout the course with important takeaways, best practices discovered, and "aha!" moments._
+## Technical toolkit
 
-### Week 1: Python Fundamentals
-- Coming soon...
+- **Analysis:** Python, R, SAS, Excel
+- **Statistical methods:** causal inference, geo-experimentation, linear regression, tree-based models, bootstrap resampling, Monte Carlo simulation
+- **Applied AI:** structured outputs, prompt evaluation, human review, retrieval, model benchmarking, classification metrics
+- **Project-based development:** Streamlit, FastAPI, Git/GitHub, SQLite, Pydantic, pytest, API integration
 
-### Week 2: Pandas Basics
-- Coming soon...
+## How I use AI in development
 
-## 🎓 Course Information
+I use AI coding assistants extensively to accelerate implementation. My contribution centers on defining the problem, research method, product requirements, expected behavior, evaluation criteria, testing, debugging, and documentation. I distinguish between analytical methods I can explain independently and software components developed with assistance, and I continue to strengthen my ability to read, maintain, and troubleshoot the resulting systems.
 
-- **Platform**: Coursera
-- **Course**: Python and Pandas for Data Engineering
-- **Start Date**: [Add your start date]
-- **Expected Completion**: [Add expected date]
+## Currently
 
-## 📬 Contact & Connect
+- Pursuing an M.S. in Data Science and Analytics at Kennesaw State University
+- Conducting student research in survey data quality and AI-assisted classification
+- Building stronger foundations in statistical programming, model evaluation, and responsible applied AI
 
-Feel free to explore this repository to see my learning progression and practical applications of data engineering concepts!
+## Connect
 
----
-
-**Note**: This repository is actively maintained and updated as I progress through the course. Star ⭐ this repo to follow my learning journey!
+- [Résumé](./assets/Trong_Phan_Resume.pdf)
+- [LinkedIn](https://www.linkedin.com/in/trongthephan)
+- [Email](mailto:johnphanthe@gmail.com)
