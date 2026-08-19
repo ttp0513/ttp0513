@@ -8,7 +8,7 @@ Before graduate school, I spent nearly three years as an Advanced Analytics Anal
 
 I am currently a student researcher in Kennesaw State University's Data Quality and Survey Methodology Lab, where I study the quality of noisy, open-ended survey responses and design human-supervised workflows for evaluating language-model classifications.
 
-[View my résumé](https://github.com/ttp0513/ttp0513/blob/main/Trong_Phan_Resume.pdf) | [Email](mailto:johnphanthe@gmail.com)
+[View my résumé](https://github.com/ttp0513/ttp0513/blob/main/TheTrongPhan_Resume.pdf) | [Email](mailto:johnphanthe@gmail.com)
 
 
 ## Focus areas
